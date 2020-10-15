@@ -35,7 +35,9 @@ justify-content: space-around;
 border: 1px solid blue;
 
 }
+
 .flex-box-container-2 img {
+margin: 10px;   
 box-shadow: 0px 10px 50px rgba(0, 0, 0, 0.7);
 } 
 
